@@ -481,7 +481,7 @@ style:
     acceptableLength: 5
   UnnecessaryAbstractClass:
     active: true
-    ignoreannotated: ['dagger.Module']
+    ignoreAnnotated: ['dagger.Module']
   UnnecessaryAnnotationUseSiteTarget:
     active: false
   UnnecessaryApply:
