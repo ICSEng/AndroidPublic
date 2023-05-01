@@ -25,3 +25,5 @@ comments:
     active: true
     excludes: ['**/test/**', '**/androidTest/**', '**/commonTest/**', '**/jvmTest/**', '**/jsTest/**', '**/iosTest/**']
     searchProtectedProperty: false
+    ignoreAnnotated:
+      - 'JvmInline'
